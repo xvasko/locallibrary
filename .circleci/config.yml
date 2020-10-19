@@ -9,3 +9,4 @@ jobs:
       - run:
           command: |
             python manage.py test
+
